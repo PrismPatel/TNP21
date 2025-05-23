@@ -1,0 +1,159 @@
+neighbourhood_name,population_total,median_household_income,percent_immigrants,unemployment_rate
+West Humber-Clairville,29000,30600,250,14.3
+Mount Olive-Silverstone-Jamestown,25660,28000,385,17.7
+Thistletown-Beaumond Heights,8355,32800,85,16.6
+Rexdale-Kipling,8800,27400,95,13.9
+Elms-Old Rexdale,7745,33600,95,18.5
+Kingsview Village-The Westway,18090,34400,145,18.1
+Willowridge-Martingrove-Richview,18945,40400,180,14.3
+Humber Heights-Westmount,8635,40800,130,12.9
+Edenbridge-Humber Valley,13125,50400,105,12.1
+Princess-Rosethorn,9425,55200,25,11.4
+Eringate-Centennial-West Deane,15805,49600,50,12.8
+Markland Wood,9055,51600,25,12.2
+Etobicoke West Mall,10085,44000,85,14.2
+Kingsway South,7420,66000,0,8.3
+Stonegate-Queensway,21430,43600,65,12.0
+New Toronto,9695,31200,45,13.2
+Long Branch,9765,41200,15,11.5
+Alderwood,10560,41600,25,11.9
+Humber Summit,10345,29200,135,17.4
+Humbermede,13930,30800,200,16.2
+Pelmo Park-Humberlea,9595,42400,125,13.8
+Black Creek,17140,25600,310,19.5
+Glenfield-Jane Heights,25070,26800,365,19.1
+York University Heights,24395,28200,220,16.4
+Rustic,7765,28000,165,18.6
+Maple Leaf,8385,33200,70,14.8
+Brookhaven-Amesbury,14430,33200,285,17.2
+Yorkdale-Glen Park,14565,34000,160,16.0
+Englemount-Lawrence,16980,33600,75,12.6
+Clanton Park,14775,39600,80,12.1
+Bathurst Manor,13675,32000,65,12.6
+Westminster-Branson,22325,30800,215,15.5
+Newtonbrook West,21200,29200,185,13.7
+Willowdale West,15390,33200,80,12.0
+Lansing-Westgate,13590,44000,65,11.5
+Bedford Park-Nortown,18160,48800,35,10.4
+St.Andrew-Windfields,14525,54000,85,10.8
+Bridle Path-Sunnybrook-York Mills,7625,93000,30,8.2
+Banbury-Don Mills,23680,53600,135,10.5
+Victoria Village,14660,34800,110,16.8
+Flemingdon Park,18375,33600,260,16.5
+Pleasant View,13410,30400,70,16.9
+Don Valley Village,22945,35600,205,15.1
+Hillcrest Village,14400,26400,210,13.6
+Bayview Woods-Steeles,10770,40800,100,13.4
+Newtonbrook East,13770,31600,155,13.1
+Bayview Village,19940,50000,125,13.7
+Henry Farm,16970,38000,50,13.7
+O`Connor Parkview,15500,35600,80,17.0
+Thorncliffe Park,15425,34400,325,17.9
+Leaside-Bennington,13630,52800,20,11.2
+Broadview North,9490,38800,85,14.7
+Old East York,7745,36400,15,12.2
+Danforth-East York,13990,38400,55,11.1
+Woodbine-Lumsden,6625,35600,75,12.0
+Taylor Massey,12345,31400,180,18.8
+East End Danforth,18105,34000,35,12.9
+The Beaches,17850,52800,30,11.0
+Woodbine Corridor,9890,38400,15,10.8
+Greenwood-Coxwell,11575,35600,60,12.0
+Danforth,7770,32400,30,12.0
+Playter Estates-Danforth,6590,41600,20,14.0
+North Riverdale,9500,44400,45,9.1
+Blake-Jones,6215,30000,55,13.4
+South Riverdale,23885,43200,130,13.0
+Cabbagetown-South St. James Town,10120,41600,40,12.9
+Regent Park,11005,38400,100,17.3
+Moss Park,19920,38800,105,14.6
+North St. James Town,16370,32800,125,17.5
+Kensington-Chinatown,16870,29800,150,17.7
+University,5930,36400,20,15.3
+Palmerston-Little Italy,11925,38000,30,11.2
+Trinity-Bellwoods,13810,37600,75,12.7
+Dufferin Grove,10000,39600,20,14.4
+Little Portugal,13985,46400,60,12.7
+South Parkdale,18580,35200,125,17.3
+Roncesvalles,12485,37200,55,11.3
+High Park-Swansea,19280,52800,45,11.2
+High Park North,19075,47200,55,13.1
+Runnymede-Bloor West Village,8115,49200,10,9.8
+Junction Area,11970,44800,65,12.8
+Weston-Pelham Park,9110,27400,130,15.2
+Corso Italia-Davenport,11355,36800,120,11.3
+Wychwood,11030,38800,75,12.5
+Annex,26865,45600,70,11.6
+Casa Loma,10175,58000,30,11.0
+Yonge-St. Clair,11595,56000,55,8.5
+Rosedale-Moore Park,17685,61600,30,9.4
+Mount Pleasant East,13590,49600,45,10.6
+Yonge-Eglinton,10690,50400,25,11.5
+Forest Hill South,9500,50000,35,8.9
+Forest Hill North,10400,42000,50,11.6
+Lawrence Park South,12505,56400,25,9.8
+Lawrence Park North,11710,51200,40,10.9
+Humewood-Cedarvale,11715,38800,75,10.8
+Oakwood Village,17635,30800,175,12.6
+Briar Hill-Belgravia,12665,34800,70,13.9
+Caledonia-Fairbank,8575,31400,85,12.9
+Keelesdale-Eglinton West,9775,29400,190,14.9
+Rockcliffe-Smythe,18910,30000,275,14.2
+Beechborough-Greenbrook,5230,28400,165,17.6
+Weston,15550,30200,345,17.4
+Lambton Baby Point,6425,33200,70,13.2
+Mount Dennis,10910,34400,205,18.7
+Steeles,20015,25600,535,18.6
+Tam O'Shanter-Sullivan,23540,30400,360,15.6
+Wexford/Maryvale,24170,33200,210,16.1
+Clairlea-Birchmount,22340,37600,200,14.9
+Oakridge,11140,26600,120,21.1
+Birchcliffe-Cliffside,19260,37600,105,14.9
+Cliffcrest,13625,32800,60,15.3
+Kennedy Park,14525,28200,125,18.4
+Ionview,11150,33600,100,16.4
+Dorset Park,20525,32400,195,14.5
+Agincourt South-Malvern West,21160,33200,425,14.4
+Agincourt North,24135,25800,655,17.3
+Milliken,20760,24200,555,19.0
+Centennial Scarborough,11240,50800,50,11.6
+Highland Creek,11140,25600,85,15.0
+Morningside,14735,27600,240,15.7
+West Hill,23665,26600,190,16.9
+Eglinton East,18755,31800,325,17.1
+Scarborough Village,13415,30800,195,17.8
+Guildwood,8355,51600,15,13.5
+Golfdale-Cedarbrae-Woburn,22145,26800,295,16.7
+Woburn North,22575,29800,300,16.0
+West Rouge,17665,43600,140,14.5
+Morningside Heights,20860,30200,285,15.0
+Malvern West,14490,32400,210,17.5
+Malvern East,22175,30000,210,16.2
+L'Amoreaux West,18815,29200,230,15.8
+East L'Amoreaux,18580,29000,320,17.9
+Parkwoods-O'Connor Hills,11680,40400,95,16.3
+Fenside-Parkwoods,17490,40400,115,15.7
+Yonge-Doris,17990,46000,160,12.8
+East Willowdale,13275,36000,85,13.5
+Avondale,12245,53600,25,11.4
+Oakdale-Beverley Heights,17620,30800,355,16.9
+Downsview,15410,37600,175,14.5
+Bendale-Glen Andrew,16070,32800,180,15.0
+Bendale South,9110,30600,120,15.4
+Islington,20030,51600,95,13.0
+Etobicoke City Centre,20815,51200,210,11.1
+Mimico-Queensway,14650,39200,95,11.6
+Humber Bay Shores,20900,58800,140,12.4
+West Queen West,12045,68500,15,7.5
+Fort York-Liberty Village,18710,70000,45,8.6
+Wellington Place,24440,67000,65,7.8
+Harbourfront-CityPlace,26065,62400,85,10.3
+St Lawrence-East Bayfront-The Islands,29005,61600,85,10.8
+Church-Wellesley,21420,39600,45,15.6
+Downtown Yonge East,16645,41200,70,13.6
+Bay-Cloverhill,15925,33600,30,15.0
+Yonge-Bay Corridor,11680,40800,30,13.3
+Junction-Wallace Emerson,20100,36800,165,14.0
+Dovercourt Village,11015,34400,50,13.8
+North Toronto,14570,48400,55,13.0
+South Eglinton-Davisville,20545,53600,60,10.6

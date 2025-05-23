@@ -1,0 +1,11 @@
+import pandas as pd
+
+# Load the Excel file
+excel_path = 'data/neighbourhood_profiles_2021.xlsx'
+df = pd.read_excel(excel_path)
+
+# Save as CSV
+csv_path = 'data/neighbourhood_profiles_2021.csv'
+df.to_csv(csv_path, index=False)
+
+print("✅ Converted to CSV successfully!")
